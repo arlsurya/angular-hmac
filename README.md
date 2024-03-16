@@ -1,5 +1,5 @@
 
-![hmac](../assets/hmac.jpeg)
+![HMAC Image](https://raw.githubusercontent.com/arlsurya/angular-hmac/master/src/assets/hmac.jpeg)
 
 ## HMAC in Angular to Verify Signature of Body Data
 
