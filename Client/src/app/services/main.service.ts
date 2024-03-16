@@ -12,7 +12,7 @@ export class MainService {
   constructor(private httpClient:HttpClient) { }
 
 public login(data: Login): Observable<any>{
-  return this.httpClient.post(this.API_URL + '/login',data).pipe(
+  return this.httpClient.post(this.API_URL + 'login',data).pipe(
    catchError((error)=>{
     return throwError(()=>error)
    })
