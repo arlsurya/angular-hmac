@@ -1,0 +1,9 @@
+# Ignore Node.js modules folder
+node_modules/
+
+Client/node_modules/
+Client/dist/
+
+# Ignore server folder
+Server/node_modules/
+Server/.env
